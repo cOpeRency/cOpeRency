@@ -25,9 +25,9 @@ Que ce soit à l'IUT ou en alternance, j'ai eu l'occasion de travailler dans dif
 
 Voici ci-dessous d'autres compétences, moins techniques, qui me permettent d'accomplir les travaux que j'entreprends :
 
--Gestion de projet : méthodologie AGILE, sprints SCRUM.
+- Gestion de projet : méthodologie AGILE, sprints SCRUM.
 
--Communication : à l'aise et à l'écoute avec les gens.
+- Communication : à l'aise et à l'écoute avec les gens.
 
 
 ## Compétences travaillées en BUT Informatique
