@@ -80,7 +80,7 @@ Cette liste est vouée à évoluer, le temps de documenter certains projets avan
 - [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
 - BUT_Explorer - EscapeGame 3D intéractif pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
 - BUT_Explorer_VR - Initiation à la réalité virtuelle en apprenant les bonnes pratiques de programmation, pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
-- Truckers - Service Android permettant l'écoute et la récupération de messages reçu sur des smartphones professionnels
+- [Truckers_mobile](https://github.com/cOpeRency/Truckers_mobile) - Service Android permettant l'écoute et la récupération de messages reçu sur des smartphones professionnels
 - Python_Mini_Games - Ensemble de mini-jeux en ligne de commande développés en python (puissance 4, morpion, devinettes, jeu des allumettes)
 - FairyBlossomWSL - Site web permettant la création de plantes, de catégories, et l'affiche d'un calendrier de plantation, développé en Symfony
 - Gardeners - Site web permettant la création et gestion de jardins/potagers, développé en Laravel
